@@ -1,2 +1,9 @@
 # webpack-starter
-A starter for making webpack apps.
+
+##Overview
+
+A template for creating an app using webpack.
+
+## Features
+
+## To Do
